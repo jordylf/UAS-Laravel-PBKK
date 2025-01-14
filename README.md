@@ -1,10 +1,12 @@
 # UAS KASIR UNSADA 
 
 <p>Nama Anggota:</p>
-<p>1. Jordy Lian Ferdinand / 2022230009</p>
-<p>Dzaky Fatkhurrahman / 2022230010</p>
-<p>Harsya Febriansyah / 2022230002</p>
-<p>Raynor Rifat / 2022230032</p>
+<ol>
+<li>Jordy Lian Ferdinand / 2022230009</li>
+<li>Dzaky Fatkhurrahman / 2022230010</li>
+<li>Harsya Febriansyah / 2022230002</li>
+<li>Raynor Rifat / 2022230032</li>
+</ol>
 
 ## Aplikasi Kasir Unsada, Kelas PBKK Pak Aji Setiawan - Laravel Project Akhir
 
